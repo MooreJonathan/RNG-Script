@@ -7,6 +7,11 @@ October, 2019
 
 *Javascript ES5*
 
+Backstory and Why
+----------------------------
+
+Some of my friends and I play DnD. In our campaign there is an organized crime group of halflings called The Kneebreakers. Some of us had the idea to start a business where we comission The Kneebreakers to run a gambling circle at our base of operations. The idea being that we have found a believable way to generate passive income. I built this file to generate a daily report of how the business went, and to give depth to the story. 
+
 Logic
 ----------------------------
 
